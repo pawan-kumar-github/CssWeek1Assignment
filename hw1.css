@@ -1,0 +1,26 @@
+header{
+background-color:#B3B3B3B3;
+color:white;
+}
+h1{
+	text-align:center;
+}
+h2{
+	color:darkblue;
+	
+}
+
+#iaside{
+	display:none;
+}
+main{
+	background-color:#666666;
+}
+#lc{
+	color:black;
+	background-color:gray;
+}
+#usc{
+	background-color:lightgray;
+	color:black;
+}
